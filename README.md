@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m passionate about cybersecurity, full-stack d
 
 - 👨‍💻 **Event Management Team**
   
- I was a part of the event management team for TedxCITBengaluru, where I collaborated on organizing and executing the event, ensuring smooth operations and a great experience for the attendees.
+   I was a part of the event management team for TedxCITBengaluru, where I collaborated on organizing and executing the event, ensuring smooth operations and a great experience for the attendees.
 
 - 👨‍💻 **Project Experience**
 
